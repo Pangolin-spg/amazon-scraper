@@ -8,6 +8,8 @@
 
 Built on [Pangolinfo's Amazon Scraper API](https://www.pangolinfo.com/amazon-scraper-api/). **Free tier: 60 credits per month, reset monthly, no credit card required.**
 
+![How it works: your code → Pangolinfo API → structured JSON](docs/how-it-works.png)
+
 ## Free Amazon Scraper
 
 You don't need to build your own scraper. Sign up free and start pulling real Amazon data in under two minutes:
