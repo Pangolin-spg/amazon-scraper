@@ -1,0 +1,1 @@
+{"description":"Amazon product lookup via the Pangolinfo Scraper API (native fetch, no dependencies)","engines":{"node":">=18"},"name":"amazon-scraper-example","type":"commonjs","version":"1.0.0"}
