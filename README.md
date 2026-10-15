@@ -8,7 +8,14 @@
 
 Built on [Pangolinfo's Amazon Scraper API](https://www.pangolinfo.com/amazon-scraper-api/). **Free tier: 60 credits per month, reset monthly, no credit card required.**
 
-![How it works: your code → Pangolinfo API → structured JSON](docs/how-it-works.png)
+```mermaid
+flowchart LR
+    A["Your code<br/><small><code>requests.get()</code> → <code>resp.json()</code></small>"] -->|"one API call"| B["Pangolinfo API<br/><small>proxy rotation · anti-bot bypass · maintained parsers</small>"]
+    B -->|"structured JSON"| C["Your app"]
+    style A fill:#16213a,stroke:#4ade80,stroke-width:2px,color:#fff
+    style B fill:#16213a,stroke:#4ade80,stroke-width:2px,color:#fff
+    style C fill:#16213a,stroke:#4ade80,stroke-width:2px,color:#fff
+```
 
 ## Free Amazon Scraper
 
