@@ -1,8 +1,12 @@
 # Amazon Scraper
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Free Tier](https://img.shields.io/badge/Free-60%20credits%2Fmonth-brightgreen.svg)](https://www.pangolinfo.com)
+[![Docs](https://img.shields.io/badge/Docs-pangolinfo.com-blue.svg)](https://docs.pangolinfo.com)
+
 **Amazon Scraper** — extract structured product, review, and bestseller data from Amazon via API. No proxies to manage, no parsers to maintain, no CAPTCHAs to solve.
 
-Built on [Pangolinfo's Amazon Scraper API](https://www.pangolinfo.com). **Free tier: 60 credits per month, reset monthly, no credit card required.**
+Built on [Pangolinfo's Amazon Scraper API](https://www.pangolinfo.com/amazon-scraper-api/). **Free tier: 60 credits per month, reset monthly, no credit card required.**
 
 ## Free Amazon Scraper
 
@@ -138,6 +142,16 @@ Yes, on any paid plan. See [pangolinfo.com pricing](https://www.pangolinfo.com) 
 
 - [Get a free API key](https://www.pangolinfo.com) — 60 credits/month, no card required
 - [Full API documentation](https://docs.pangolinfo.com)
+
+## Related Projects
+
+More ways to plug real-time Amazon data into your stack:
+
+- [Amazon Data MCP](https://github.com/Pangolin-spg/amazon-data-mcp) — 20-tool MCP server: let Claude, Cursor, and other AI agents call Amazon data mid-conversation.
+- [Amazon Scraper Skill](https://github.com/Pangolin-spg/openclaw-skills) — Skill-format integration for OpenClaw and agent IDEs.
+- [Amazon Scraper API](https://www.pangolinfo.com/amazon-scraper-api/) — the REST API behind this repo: product, search, bestseller data.
+- [Amazon Review API](https://www.pangolinfo.com/amazon-review-api/) — review-page extraction at scale (5 credits/page).
+- [Amazon Data MCP](https://www.pangolinfo.com/amazon-data-mcp/) — the managed MCP server (same 20 tools, zero setup).
 
 ---
 
