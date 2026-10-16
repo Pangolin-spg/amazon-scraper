@@ -161,7 +161,8 @@ More ways to plug real-time Amazon data into your stack:
 - [Amazon Scraper API](https://www.pangolinfo.com/amazon-scraper-api/) — the REST API behind this repo: product, search, bestseller data.
 - [Amazon Review API](https://www.pangolinfo.com/amazon-review-api/) — review-page extraction at scale (5 credits/page).
 - [Amazon Data MCP](https://www.pangolinfo.com/amazon-data-mcp/) — the managed MCP server (same 20 tools, zero setup).
-
+- [Best Free Amazon Scraper APIs in 2026 (Tested)](https://www.pangolinfo.com/best-free-amazon-scraper-apis/) — hands-on test of 5 free tiers (Pangolinfo, Chocodata, ScraperAPI, Bright Data, APISerpent) with measured response times, field counts, and real free-tier terms.
+---
 ---
 
 *Built by [Pangolinfo](https://www.pangolinfo.com) — real-time Amazon data for developers, AI agents, and ecommerce teams.*
